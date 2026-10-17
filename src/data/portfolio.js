@@ -10,6 +10,7 @@ export const profile = {
   whatsapp: "6285795715960", // [GANTI] format 62..., tanpa + dan spasi
   github: "https://github.com/arkan0303", // [GANTI]
   linkedin: "https://linkedin.com/in/arkanul-adelis", // [GANTI]
+  tiktok: "https://tiktok.com/@arkanul0303",
   cv: "#", // [GANTI] link file CV (mis. /cv-arkanul.pdf di folder public)
   photo: "/arkan.png", // [GANTI] foto asli
 };
